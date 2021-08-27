@@ -85,4 +85,5 @@ li.inactive-navlist-item, li.inactive-navlist-item:hover, li.inactive-navlist-it
 
 ul.navlist {
     display: flex;
+    padding-left: 0;
 }
