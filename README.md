@@ -1,3 +1,3 @@
 # brendangasparin.github.io
 
-This is Brendan's personal website.
+This is Brendan's GitHub Pages website.
